@@ -1,0 +1,11 @@
+📁 docker-3tier-app/
+├── frontend/
+│   ├── app.js
+│   └── package.json
+├── backend/
+│   ├── app.js
+│   └── package.json
+├── docker-compose.yml
+├── Dockerfile.frontend
+├── Dockerfile.backend
+└── .dockerignore
