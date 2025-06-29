@@ -11,6 +11,7 @@ This setup uses **Docker** and **Docker Compose** to orchestrate the full stack 
 ---
 
 ## 📁 Project Structure
+<pre>
 
 3-tier-project/
 ├── frontend/ # React frontend application
@@ -25,7 +26,7 @@ This setup uses **Docker** and **Docker Compose** to orchestrate the full stack 
 │
 └── docker-compose.yml # Docker Compose to orchestrate all services
 
-
+</pre>
 ---
 
 ## ✅ Prerequisites
